@@ -1,0 +1,54 @@
+You are tasked with completing a software development project that will be evaluated based on your GitHub repository, commit history, and deployed API. Follow these specific requirements to create an impressive submission:
+
+PROJECT REQUIREMENTS:
+
+Repository Setup: Create a well-structured GitHub repository with clear documentation
+Commit Strategy: Demonstrate professional development practices through meaningful commit history
+API Deployment: Deploy a publicly accessible API that evaluators can test
+DETAILED INSTRUCTIONS:
+
+Phase 1: Repository Foundation
+
+Initialize repository with descriptive README.md including project overview, setup instructions, and API documentation
+Create proper project structure with organized folders (src/, docs/, tests/, etc.)
+Add .gitignore file appropriate for your technology stack
+Include LICENSE file if applicable
+Phase 2: Development with Strategic Commits
+Create commits that showcase your development process:
+
+Initial project setup and configuration
+Feature implementation in logical, incremental steps
+Bug fixes and improvements
+Code refactoring and optimization
+Documentation updates
+Testing implementation
+Commit Best Practices:
+
+Use clear, descriptive commit messages following conventional commit format
+Make frequent, small commits rather than large monolithic ones
+Include both feature development and maintenance commits
+Show progression from basic functionality to advanced features
+Phase 3: API Development & Documentation
+
+Implement all required API endpoints
+Include comprehensive API documentation (OpenAPI/Swagger recommended)
+Add input validation and error handling
+Implement proper HTTP status codes and responses
+Phase 4: Testing & Quality Assurance
+
+Write unit tests and integration tests
+Include test coverage reports
+Add continuous integration workflow (GitHub Actions)
+Perform code quality checks
+Phase 5: Deployment
+
+Deploy to a reliable platform (Heroku, Vercel, Railway, or similar)
+Ensure API is publicly accessible and testable
+Include deployment URL in README
+Test all endpoints post-deployment
+DELIVERABLES:
+
+GitHub repository URL with complete project
+Deployed API URL that is publicly testable
+Comprehensive documentation
+Professional commit history demonstrating development expertise
