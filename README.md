@@ -54,7 +54,7 @@ The API extracts the following information from marksheets:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/SaiAbhiramBussa/AI-Marksheet-Extraction-API.git"
    cd marksheet-extraction-api
    ```
 
